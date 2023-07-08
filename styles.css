@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#lr{
+    background-color:darkgrey;
+    border-style:hidden;
+    border-radius: 3%;
+    padding: 2%;
+}
+#aa{
+    border:1px solid goldenrod;
+    background:lightcoral;
+    padding: 2%;
+}
+.pr{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
